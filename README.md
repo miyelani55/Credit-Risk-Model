@@ -1,6 +1,6 @@
 # 🏦 Credit Risk Scoring Model
 
-> An end-to-end machine learning pipeline that predicts the **Probability of Default (PD)** for loan applicants — a core component of bank credit decisioning systems.
+> An end-to-end machine learning pipeline that predicts the **Probability of Default (PD)** for loan applicants, a core component of bank credit decisioning systems.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.29-red?logo=streamlit)
@@ -137,11 +137,6 @@ Credit risk models are core to:
 - **streamlit + plotly** — dashboard
 - **pytest** — unit testing
 
----
-
-## 📄 License
-
-MIT — free to use in your own portfolio.
 
 ---
 
