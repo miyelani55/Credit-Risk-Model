@@ -138,6 +138,4 @@ Credit risk models are core to:
 - **pytest** — unit testing
 
 
----
 
-*Built as a data science portfolio project. Not intended as financial advice.*
